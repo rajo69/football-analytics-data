@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-02-15T23:12:33.596361",
+  "last_updated": "2026-02-22T23:02:30.963856",
   "analysis": {
     "0_league_table": [
       {
         "Team": "Arsenal",
-        "P": 26,
+        "P": 27,
         "W": 17,
-        "D": 6,
+        "D": 7,
         "L": 3,
-        "GF": 50,
-        "GA": 18,
+        "GF": 52,
+        "GA": 20,
         "GD": 32,
-        "Pts": 57
+        "Pts": 58
       },
       {
         "Team": "Man City",
@@ -213,14 +213,14 @@
       },
       {
         "Team": "Wolves",
-        "P": 26,
+        "P": 27,
         "W": 1,
-        "D": 6,
+        "D": 7,
         "L": 19,
-        "GF": 16,
-        "GA": 48,
+        "GF": 18,
+        "GA": 50,
         "GD": -32,
-        "Pts": 9
+        "Pts": 10
       }
     ],
     "1_team_efficiency": [
@@ -232,9 +232,9 @@
       },
       {
         "HomeTeam": "Arsenal",
-        "Goals": 50,
-        "SOT": 128,
-        "Clinical_Rate": 0.391
+        "Goals": 52,
+        "SOT": 132,
+        "Clinical_Rate": 0.394
       },
       {
         "HomeTeam": "Brentford",
@@ -340,9 +340,9 @@
       },
       {
         "HomeTeam": "Wolves",
-        "Goals": 16,
-        "SOT": 83,
-        "Clinical_Rate": 0.193
+        "Goals": 18,
+        "SOT": 85,
+        "Clinical_Rate": 0.212
       }
     ],
     "2_referee_discipline": [
@@ -397,6 +397,11 @@
         "AvgCards": 3.8421052631578947
       },
       {
+        "Referee": "P Tierney",
+        "Matches": 5,
+        "AvgCards": 3.8
+      },
+      {
         "Referee": "S Barrott",
         "Matches": 15,
         "AvgCards": 3.8
@@ -433,9 +438,9 @@
       }
     ],
     "3_home_advantage": {
-      "home_win_pct": 43.1,
-      "away_win_pct": 30.4,
-      "draw_pct": 26.5
+      "home_win_pct": 42.9,
+      "away_win_pct": 30.3,
+      "draw_pct": 26.8
     },
     "4_comeback_kings": [
       {
@@ -488,7 +493,7 @@
       }
     ],
     "5_betting_accuracy": {
-      "favorite_win_rate": 50.38
+      "favorite_win_rate": 50.19
     },
     "6_clean_sheets": [
       {
@@ -581,8 +586,8 @@
       },
       {
         "HomeTeam": "Arsenal",
-        "Goals_1H": 18,
-        "Goals_2H": 32,
+        "Goals_1H": 19,
+        "Goals_2H": 33,
         "2H_Increase": 14
       },
       {
@@ -678,8 +683,8 @@
       {
         "HomeTeam": "Wolves",
         "Goals_1H": 10,
-        "Goals_2H": 6,
-        "2H_Increase": -4
+        "Goals_2H": 8,
+        "2H_Increase": -2
       },
       {
         "HomeTeam": "Man City",
@@ -709,9 +714,9 @@
       },
       {
         "HomeTeam": "Arsenal",
-        "Corners": 157,
-        "Goals": 50,
-        "Goals_per_Corner": 0.3185
+        "Corners": 160,
+        "Goals": 52,
+        "Goals_per_Corner": 0.325
       },
       {
         "HomeTeam": "Burnley",
@@ -805,9 +810,9 @@
       },
       {
         "HomeTeam": "Wolves",
-        "Corners": 89,
-        "Goals": 16,
-        "Goals_per_Corner": 0.1798
+        "Corners": 90,
+        "Goals": 18,
+        "Goals_per_Corner": 0.2
       },
       {
         "HomeTeam": "Nott'm Forest",
@@ -817,12 +822,12 @@
       }
     ],
     "9_aggression_vs_success": {
-      "correlation": -0.523,
+      "correlation": -0.493,
       "data": [
         {
           "HomeTeam": "Arsenal",
-          "Fouls": 263,
-          "Points": 57
+          "Fouls": 271,
+          "Points": 58
         },
         {
           "HomeTeam": "Man City",
@@ -916,8 +921,8 @@
         },
         {
           "HomeTeam": "Wolves",
-          "Fouls": 357,
-          "Points": 9
+          "Fouls": 363,
+          "Points": 10
         }
       ]
     },
@@ -986,18 +991,18 @@
         "Home_Contribution_%": 60.0
       },
       {
+        "Team": "Wolves",
+        "HomePts": 6,
+        "AwayPts": 4,
+        "TotalPts": 10,
+        "Home_Contribution_%": 60.0
+      },
+      {
         "Team": "Liverpool",
         "HomePts": 24,
         "AwayPts": 18,
         "TotalPts": 42,
         "Home_Contribution_%": 57.1
-      },
-      {
-        "Team": "Arsenal",
-        "HomePts": 32,
-        "AwayPts": 25,
-        "TotalPts": 57,
-        "Home_Contribution_%": 56.1
       },
       {
         "Team": "Aston Villa",
@@ -1007,18 +1012,18 @@
         "Home_Contribution_%": 56.0
       },
       {
-        "Team": "Wolves",
-        "HomePts": 5,
-        "AwayPts": 4,
-        "TotalPts": 9,
-        "Home_Contribution_%": 55.6
-      },
-      {
         "Team": "Burnley",
         "HomePts": 10,
         "AwayPts": 8,
         "TotalPts": 18,
         "Home_Contribution_%": 55.6
+      },
+      {
+        "Team": "Arsenal",
+        "HomePts": 32,
+        "AwayPts": 26,
+        "TotalPts": 58,
+        "Home_Contribution_%": 55.2
       },
       {
         "Team": "Chelsea",
@@ -1132,9 +1137,9 @@
       },
       {
         "HomeTeam": "Arsenal",
-        "sum": 13,
-        "count": 26,
-        "Over25_Rate_%": 50.0
+        "sum": 14,
+        "count": 27,
+        "Over25_Rate_%": 51.9
       },
       {
         "HomeTeam": "Brentford",
@@ -1167,13 +1172,13 @@
         "Over25_Rate_%": 46.2
       },
       {
-        "HomeTeam": "Sunderland",
-        "sum": 11,
-        "count": 26,
-        "Over25_Rate_%": 42.3
+        "HomeTeam": "Wolves",
+        "sum": 12,
+        "count": 27,
+        "Over25_Rate_%": 44.4
       },
       {
-        "HomeTeam": "Wolves",
+        "HomeTeam": "Sunderland",
         "sum": 11,
         "count": 26,
         "Over25_Rate_%": 42.3
@@ -1236,9 +1241,9 @@
       },
       {
         "HomeTeam": "Wolves",
-        "HST": 83,
-        "HS": 243,
-        "Accuracy_%": 34.2
+        "HST": 85,
+        "HS": 248,
+        "Accuracy_%": 34.3
       },
       {
         "HomeTeam": "Tottenham",
@@ -1248,9 +1253,9 @@
       },
       {
         "HomeTeam": "Arsenal",
-        "HST": 128,
-        "HS": 380,
-        "Accuracy_%": 33.7
+        "HST": 132,
+        "HS": 390,
+        "Accuracy_%": 33.8
       },
       {
         "HomeTeam": "Sunderland",
@@ -1381,16 +1386,16 @@
         "CardsPer100Fouls": 16.3
       },
       {
+        "HomeTeam": "Wolves",
+        "HY": 57,
+        "HF": 363,
+        "CardsPer100Fouls": 15.7
+      },
+      {
         "HomeTeam": "Leeds",
         "HY": 41,
         "HF": 264,
         "CardsPer100Fouls": 15.5
-      },
-      {
-        "HomeTeam": "Wolves",
-        "HY": 55,
-        "HF": 357,
-        "CardsPer100Fouls": 15.4
       },
       {
         "HomeTeam": "Newcastle",
@@ -1412,8 +1417,8 @@
       },
       {
         "HomeTeam": "Arsenal",
-        "HY": 36,
-        "HF": 263,
+        "HY": 37,
+        "HF": 271,
         "CardsPer100Fouls": 13.7
       },
       {
@@ -1441,6 +1446,12 @@
         "Matches": 10,
         "HomeWinRate": 70.0,
         "AvgAwayCardBias": 0.4
+      },
+      {
+        "Referee": "P Tierney",
+        "Matches": 5,
+        "HomeWinRate": 60.0,
+        "AvgAwayCardBias": 0.2
       },
       {
         "Referee": "R Jones",
@@ -1483,84 +1494,78 @@
         "Matches": 20,
         "HomeWinRate": 40.0,
         "AvgAwayCardBias": 0.7
-      },
-      {
-        "Referee": "S Barrott",
-        "Matches": 15,
-        "HomeWinRate": 40.0,
-        "AvgAwayCardBias": 0.26666666666666666
       }
     ],
     "15_betting_roi": [
       {
         "Bookmaker": "Market Avg (Opening)",
-        "Fav_ROI": -6.42,
-        "Underdog_ROI": -16.8
+        "Fav_ROI": -6.77,
+        "Underdog_ROI": -17.12
       },
       {
         "Bookmaker": "Market Avg (Closing)",
-        "Fav_ROI": -4.59,
-        "Underdog_ROI": -19.02
+        "Fav_ROI": -4.95,
+        "Underdog_ROI": -19.33
       },
       {
         "Bookmaker": "Bet365 (Opening)",
-        "Fav_ROI": -7.35,
-        "Underdog_ROI": -14.55
+        "Fav_ROI": -7.71,
+        "Underdog_ROI": -14.88
       },
       {
         "Bookmaker": "Bet365 (Closing)",
-        "Fav_ROI": -5.92,
-        "Underdog_ROI": -19.31
+        "Fav_ROI": -6.28,
+        "Underdog_ROI": -19.62
       },
       {
         "Bookmaker": "Betfair (Opening)",
-        "Fav_ROI": -7.42,
-        "Underdog_ROI": -14.43
+        "Fav_ROI": -7.77,
+        "Underdog_ROI": -14.76
       },
       {
         "Bookmaker": "Betfair (Closing)",
-        "Fav_ROI": -4.53,
-        "Underdog_ROI": -20.72
+        "Fav_ROI": -4.9,
+        "Underdog_ROI": -21.02
       },
       {
         "Bookmaker": "Betfair Exchange (Opening)",
-        "Fav_ROI": -2.75,
-        "Underdog_ROI": -8.65
+        "Fav_ROI": -3.12,
+        "Underdog_ROI": -9.0
       },
       {
         "Bookmaker": "Betfair Exchange (Closing)",
-        "Fav_ROI": -3.17,
-        "Underdog_ROI": -13.25
+        "Fav_ROI": -3.54,
+        "Underdog_ROI": -13.58
       },
       {
         "Bookmaker": "BetMGM (Opening)",
-        "Fav_ROI": -6.04,
-        "Underdog_ROI": -11.31
+        "Fav_ROI": -6.4,
+        "Underdog_ROI": -11.65
       },
       {
         "Bookmaker": "BetMGM (Closing)",
-        "Fav_ROI": -4.28,
-        "Underdog_ROI": -12.79
+        "Fav_ROI": -4.65,
+        "Underdog_ROI": -13.12
       },
       {
         "Bookmaker": "BetVictor (Opening)",
-        "Fav_ROI": -8.17,
-        "Underdog_ROI": -17.7
+        "Fav_ROI": -8.52,
+        "Underdog_ROI": -18.02
       },
       {
         "Bookmaker": "BetVictor (Closing)",
-        "Fav_ROI": -6.1,
-        "Underdog_ROI": -16.12
+        "Fav_ROI": -6.46,
+        "Underdog_ROI": -16.44
       },
       {
         "Bookmaker": "Bwin (Opening)",
-        "Fav_ROI": -6.36,
-        "Underdog_ROI": -15.59
+        "Fav_ROI": -6.72,
+        "Underdog_ROI": -15.92
       },
       {
         "Bookmaker": "Bwin (Closing)",
-        "Fav_ROI": -4.53,
-        "Underdog_ROI": -21.71
+        "Fav_ROI": -4.89,
+        "Underdog_ROI": -22.01
       },
       {
         "Bookmaker": "Cloudbet (Opening)",
@@ -1584,13 +1589,13 @@
       },
       {
         "Bookmaker": "Market Max (Opening)",
-        "Fav_ROI": -5.13,
-        "Underdog_ROI": -10.72
+        "Fav_ROI": -5.5,
+        "Underdog_ROI": -11.06
       },
       {
         "Bookmaker": "Market Max (Closing)",
-        "Fav_ROI": -1.96,
-        "Underdog_ROI": -18.8
+        "Fav_ROI": -2.34,
+        "Underdog_ROI": -19.11
       },
       {
         "Bookmaker": "Pinnacle (Opening)",
@@ -1641,12 +1646,6 @@
         "SOT_per_Goal": 3.19
       },
       {
-        "HomeTeam": "Arsenal",
-        "SOT_Conc": 56,
-        "G_Conc": 18,
-        "SOT_per_Goal": 3.11
-      },
-      {
         "HomeTeam": "Brighton",
         "SOT_Conc": 104,
         "G_Conc": 34,
@@ -1669,6 +1668,12 @@
         "SOT_Conc": 102,
         "G_Conc": 35,
         "SOT_per_Goal": 2.91
+      },
+      {
+        "HomeTeam": "Arsenal",
+        "SOT_Conc": 58,
+        "G_Conc": 20,
+        "SOT_per_Goal": 2.9
       },
       {
         "HomeTeam": "Newcastle",
@@ -1714,9 +1719,9 @@
       },
       {
         "HomeTeam": "Wolves",
-        "SOT_Conc": 121,
-        "G_Conc": 48,
-        "SOT_per_Goal": 2.52
+        "SOT_Conc": 125,
+        "G_Conc": 50,
+        "SOT_per_Goal": 2.5
       },
       {
         "HomeTeam": "Leeds",
@@ -1858,7 +1863,7 @@
       }
     ],
     "18_quick_stats": {
-      "home_win_pct": 43.1,
+      "home_win_pct": 42.9,
       "avg_goals_per_game": 2.78,
       "most_common_referee": "A Taylor"
     }
