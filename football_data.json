@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T23:30:44.638016",
+  "last_updated": "2026-05-10T23:36:47.213673",
   "analysis": {
     "0_league_table": [
       {
@@ -15,14 +15,14 @@
       },
       {
         "Team": "Man City",
-        "P": 33,
+        "P": 34,
         "W": 21,
-        "D": 7,
+        "D": 8,
         "L": 5,
-        "GF": 66,
-        "GA": 29,
+        "GF": 69,
+        "GA": 32,
         "GD": 37,
-        "Pts": 70
+        "Pts": 71
       },
       {
         "Team": "Man United",
@@ -92,13 +92,24 @@
       },
       {
         "Team": "Chelsea",
-        "P": 34,
+        "P": 35,
         "W": 13,
         "D": 9,
-        "L": 12,
-        "GF": 53,
-        "GA": 45,
-        "GD": 8,
+        "L": 13,
+        "GF": 54,
+        "GA": 48,
+        "GD": 6,
+        "Pts": 48
+      },
+      {
+        "Team": "Everton",
+        "P": 35,
+        "W": 13,
+        "D": 9,
+        "L": 13,
+        "GF": 44,
+        "GA": 44,
+        "GD": 0,
         "Pts": 48
       },
       {
@@ -111,17 +122,6 @@
         "GA": 49,
         "GD": -5,
         "Pts": 48
-      },
-      {
-        "Team": "Everton",
-        "P": 34,
-        "W": 13,
-        "D": 8,
-        "L": 13,
-        "GF": 41,
-        "GA": 41,
-        "GD": 0,
-        "Pts": 47
       },
       {
         "Team": "Sunderland",
@@ -169,14 +169,14 @@
       },
       {
         "Team": "Nott'm Forest",
-        "P": 34,
-        "W": 10,
+        "P": 35,
+        "W": 11,
         "D": 9,
         "L": 15,
-        "GF": 41,
-        "GA": 45,
-        "GD": -4,
-        "Pts": 39
+        "GF": 44,
+        "GA": 46,
+        "GD": -2,
+        "Pts": 42
       },
       {
         "Team": "Tottenham",
@@ -231,10 +231,10 @@
         "Clinical_Rate": 0.39
       },
       {
-        "HomeTeam": "Brentford",
-        "Goals": 52,
-        "SOT": 140,
-        "Clinical_Rate": 0.371
+        "HomeTeam": "Man City",
+        "Goals": 69,
+        "SOT": 183,
+        "Clinical_Rate": 0.377
       },
       {
         "HomeTeam": "Liverpool",
@@ -243,10 +243,10 @@
         "Clinical_Rate": 0.371
       },
       {
-        "HomeTeam": "Man City",
-        "Goals": 66,
-        "SOT": 179,
-        "Clinical_Rate": 0.369
+        "HomeTeam": "Brentford",
+        "Goals": 52,
+        "SOT": 140,
+        "Clinical_Rate": 0.371
       },
       {
         "HomeTeam": "Fulham",
@@ -256,9 +256,9 @@
       },
       {
         "HomeTeam": "Chelsea",
-        "Goals": 53,
-        "SOT": 151,
-        "Clinical_Rate": 0.351
+        "Goals": 54,
+        "SOT": 156,
+        "Clinical_Rate": 0.346
       },
       {
         "HomeTeam": "West Ham",
@@ -273,10 +273,10 @@
         "Clinical_Rate": 0.337
       },
       {
-        "HomeTeam": "Leeds",
-        "Goals": 47,
-        "SOT": 143,
-        "Clinical_Rate": 0.329
+        "HomeTeam": "Everton",
+        "Goals": 44,
+        "SOT": 131,
+        "Clinical_Rate": 0.336
       },
       {
         "HomeTeam": "Bournemouth",
@@ -285,10 +285,10 @@
         "Clinical_Rate": 0.329
       },
       {
-        "HomeTeam": "Everton",
-        "Goals": 41,
-        "SOT": 125,
-        "Clinical_Rate": 0.328
+        "HomeTeam": "Leeds",
+        "Goals": 47,
+        "SOT": 143,
+        "Clinical_Rate": 0.329
       },
       {
         "HomeTeam": "Tottenham",
@@ -315,6 +315,12 @@
         "Clinical_Rate": 0.315
       },
       {
+        "HomeTeam": "Nott'm Forest",
+        "Goals": 44,
+        "SOT": 141,
+        "Clinical_Rate": 0.312
+      },
+      {
         "HomeTeam": "Brighton",
         "Goals": 49,
         "SOT": 160,
@@ -325,12 +331,6 @@
         "Goals": 49,
         "SOT": 161,
         "Clinical_Rate": 0.304
-      },
-      {
-        "HomeTeam": "Nott'm Forest",
-        "Goals": 41,
-        "SOT": 137,
-        "Clinical_Rate": 0.299
       },
       {
         "HomeTeam": "Crystal Palace",
@@ -388,8 +388,8 @@
       },
       {
         "Referee": "A Taylor",
-        "Matches": 27,
-        "AvgCards": 4.037037037037037
+        "Matches": 28,
+        "AvgCards": 4.035714285714286
       },
       {
         "Referee": "P Bankes",
@@ -427,14 +427,14 @@
         "AvgCards": 3.3157894736842106
       },
       {
+        "Referee": "M Oliver",
+        "Matches": 27,
+        "AvgCards": 3.111111111111111
+      },
+      {
         "Referee": "T Harrington",
         "Matches": 11,
         "AvgCards": 3.090909090909091
-      },
-      {
-        "Referee": "M Oliver",
-        "Matches": 26,
-        "AvgCards": 3.0384615384615383
       },
       {
         "Referee": "C Pawson",
@@ -443,9 +443,9 @@
       }
     ],
     "3_home_advantage": {
-      "home_win_pct": 42.9,
-      "away_win_pct": 30.8,
-      "draw_pct": 26.2
+      "home_win_pct": 42.7,
+      "away_win_pct": 30.9,
+      "draw_pct": 26.4
     },
     "4_comeback_kings": [
       {
@@ -502,7 +502,7 @@
       }
     ],
     "5_betting_accuracy": {
-      "favorite_win_rate": 50.14
+      "favorite_win_rate": 49.86
     },
     "6_clean_sheets": [
       {
@@ -630,10 +630,16 @@
         "2H_Increase": 10
       },
       {
+        "HomeTeam": "Everton",
+        "Goals_1H": 17,
+        "Goals_2H": 27,
+        "2H_Increase": 10
+      },
+      {
         "HomeTeam": "Nott'm Forest",
-        "Goals_1H": 16,
-        "Goals_2H": 25,
-        "2H_Increase": 9
+        "Goals_1H": 18,
+        "Goals_2H": 26,
+        "2H_Increase": 8
       },
       {
         "HomeTeam": "Tottenham",
@@ -642,10 +648,10 @@
         "2H_Increase": 7
       },
       {
-        "HomeTeam": "Everton",
-        "Goals_1H": 17,
-        "Goals_2H": 24,
-        "2H_Increase": 7
+        "HomeTeam": "Chelsea",
+        "Goals_1H": 24,
+        "Goals_2H": 30,
+        "2H_Increase": 6
       },
       {
         "HomeTeam": "Brentford",
@@ -657,12 +663,6 @@
         "HomeTeam": "Bournemouth",
         "Goals_1H": 25,
         "Goals_2H": 30,
-        "2H_Increase": 5
-      },
-      {
-        "HomeTeam": "Chelsea",
-        "Goals_1H": 24,
-        "Goals_2H": 29,
         "2H_Increase": 5
       },
       {
@@ -703,9 +703,9 @@
       },
       {
         "HomeTeam": "Man City",
-        "Goals_1H": 37,
-        "Goals_2H": 29,
-        "2H_Increase": -8
+        "Goals_1H": 38,
+        "Goals_2H": 31,
+        "2H_Increase": -7
       }
     ],
     "8_corner_conversion": [
@@ -723,9 +723,9 @@
       },
       {
         "HomeTeam": "Man City",
-        "Corners": 204,
-        "Goals": 66,
-        "Goals_per_Corner": 0.3235
+        "Corners": 213,
+        "Goals": 69,
+        "Goals_per_Corner": 0.3239
       },
       {
         "HomeTeam": "Brentford",
@@ -738,6 +738,12 @@
         "Corners": 155,
         "Goals": 47,
         "Goals_per_Corner": 0.3032
+      },
+      {
+        "HomeTeam": "Everton",
+        "Corners": 148,
+        "Goals": 44,
+        "Goals_per_Corner": 0.2973
       },
       {
         "HomeTeam": "Sunderland",
@@ -756,12 +762,6 @@
         "Corners": 170,
         "Goals": 49,
         "Goals_per_Corner": 0.2882
-      },
-      {
-        "HomeTeam": "Everton",
-        "Corners": 143,
-        "Goals": 41,
-        "Goals_per_Corner": 0.2867
       },
       {
         "HomeTeam": "Burnley",
@@ -788,16 +788,16 @@
         "Goals_per_Corner": 0.2623
       },
       {
-        "HomeTeam": "Chelsea",
-        "Corners": 209,
-        "Goals": 53,
-        "Goals_per_Corner": 0.2536
-      },
-      {
         "HomeTeam": "Crystal Palace",
         "Corners": 144,
         "Goals": 36,
         "Goals_per_Corner": 0.25
+      },
+      {
+        "HomeTeam": "Chelsea",
+        "Corners": 219,
+        "Goals": 54,
+        "Goals_per_Corner": 0.2466
       },
       {
         "HomeTeam": "Tottenham",
@@ -812,16 +812,16 @@
         "Goals_per_Corner": 0.2386
       },
       {
+        "HomeTeam": "Nott'm Forest",
+        "Corners": 185,
+        "Goals": 44,
+        "Goals_per_Corner": 0.2378
+      },
+      {
         "HomeTeam": "Newcastle",
         "Corners": 215,
         "Goals": 49,
         "Goals_per_Corner": 0.2279
-      },
-      {
-        "HomeTeam": "Nott'm Forest",
-        "Corners": 184,
-        "Goals": 41,
-        "Goals_per_Corner": 0.2228
       },
       {
         "HomeTeam": "Wolves",
@@ -831,7 +831,7 @@
       }
     ],
     "9_aggression_vs_success": {
-      "correlation": -0.479,
+      "correlation": -0.499,
       "data": [
         {
           "HomeTeam": "Arsenal",
@@ -840,8 +840,8 @@
         },
         {
           "HomeTeam": "Man City",
-          "Fouls": 329,
-          "Points": 70
+          "Fouls": 334,
+          "Points": 71
         },
         {
           "HomeTeam": "Man United",
@@ -880,13 +880,13 @@
         },
         {
           "HomeTeam": "Chelsea",
-          "Fouls": 368,
+          "Fouls": 380,
           "Points": 48
         },
         {
           "HomeTeam": "Everton",
-          "Fouls": 351,
-          "Points": 47
+          "Fouls": 366,
+          "Points": 48
         },
         {
           "HomeTeam": "Sunderland",
@@ -910,8 +910,8 @@
         },
         {
           "HomeTeam": "Nott'm Forest",
-          "Fouls": 365,
-          "Points": 39
+          "Fouls": 375,
+          "Points": 42
         },
         {
           "HomeTeam": "Tottenham",
@@ -1021,18 +1021,18 @@
         "Home_Contribution_%": 57.7
       },
       {
-        "Team": "Man City",
-        "HomePts": 39,
-        "AwayPts": 31,
-        "TotalPts": 70,
-        "Home_Contribution_%": 55.7
-      },
-      {
         "Team": "Burnley",
         "HomePts": 11,
         "AwayPts": 9,
         "TotalPts": 20,
         "Home_Contribution_%": 55.0
+      },
+      {
+        "Team": "Man City",
+        "HomePts": 39,
+        "AwayPts": 32,
+        "TotalPts": 71,
+        "Home_Contribution_%": 54.9
       },
       {
         "Team": "West Ham",
@@ -1050,10 +1050,10 @@
       },
       {
         "Team": "Everton",
-        "HomePts": 22,
+        "HomePts": 23,
         "AwayPts": 25,
-        "TotalPts": 47,
-        "Home_Contribution_%": 46.8
+        "TotalPts": 48,
+        "Home_Contribution_%": 47.9
       },
       {
         "Team": "Crystal Palace",
@@ -1065,9 +1065,9 @@
       {
         "Team": "Nott'm Forest",
         "HomePts": 18,
-        "AwayPts": 21,
-        "TotalPts": 39,
-        "Home_Contribution_%": 46.2
+        "AwayPts": 24,
+        "TotalPts": 42,
+        "Home_Contribution_%": 42.9
       },
       {
         "Team": "Tottenham",
@@ -1092,9 +1092,9 @@
       },
       {
         "HomeTeam": "Chelsea",
-        "sum": 22,
-        "count": 34,
-        "Over25_Rate_%": 64.7
+        "sum": 23,
+        "count": 35,
+        "Over25_Rate_%": 65.7
       },
       {
         "HomeTeam": "Liverpool",
@@ -1110,9 +1110,9 @@
       },
       {
         "HomeTeam": "Man City",
-        "sum": 20,
-        "count": 33,
-        "Over25_Rate_%": 60.6
+        "sum": 21,
+        "count": 34,
+        "Over25_Rate_%": 61.8
       },
       {
         "HomeTeam": "West Ham",
@@ -1146,9 +1146,9 @@
       },
       {
         "HomeTeam": "Nott'm Forest",
-        "sum": 18,
-        "count": 34,
-        "Over25_Rate_%": 52.9
+        "sum": 19,
+        "count": 35,
+        "Over25_Rate_%": 54.3
       },
       {
         "HomeTeam": "Burnley",
@@ -1187,16 +1187,16 @@
         "Over25_Rate_%": 45.7
       },
       {
-        "HomeTeam": "Sunderland",
+        "HomeTeam": "Everton",
         "sum": 15,
         "count": 35,
         "Over25_Rate_%": 42.9
       },
       {
-        "HomeTeam": "Everton",
-        "sum": 14,
-        "count": 34,
-        "Over25_Rate_%": 41.2
+        "HomeTeam": "Sunderland",
+        "sum": 15,
+        "count": 35,
+        "Over25_Rate_%": 42.9
       }
     ],
     "12_shot_quality": [
@@ -1219,12 +1219,6 @@
         "Accuracy_%": 35.6
       },
       {
-        "HomeTeam": "Man City",
-        "HST": 179,
-        "HS": 504,
-        "Accuracy_%": 35.5
-      },
-      {
         "HomeTeam": "Newcastle",
         "HST": 161,
         "HS": 454,
@@ -1235,6 +1229,12 @@
         "HST": 138,
         "HS": 390,
         "Accuracy_%": 35.4
+      },
+      {
+        "HomeTeam": "Man City",
+        "HST": 183,
+        "HS": 525,
+        "Accuracy_%": 34.9
       },
       {
         "HomeTeam": "Bournemouth",
@@ -1261,16 +1261,16 @@
         "Accuracy_%": 33.9
       },
       {
+        "HomeTeam": "Everton",
+        "HST": 131,
+        "HS": 389,
+        "Accuracy_%": 33.7
+      },
+      {
         "HomeTeam": "West Ham",
         "HST": 122,
         "HS": 364,
         "Accuracy_%": 33.5
-      },
-      {
-        "HomeTeam": "Everton",
-        "HST": 125,
-        "HS": 375,
-        "Accuracy_%": 33.3
       },
       {
         "HomeTeam": "Sunderland",
@@ -1285,15 +1285,15 @@
         "Accuracy_%": 32.6
       },
       {
-        "HomeTeam": "Chelsea",
-        "HST": 151,
-        "HS": 465,
-        "Accuracy_%": 32.5
+        "HomeTeam": "Nott'm Forest",
+        "HST": 141,
+        "HS": 433,
+        "Accuracy_%": 32.6
       },
       {
-        "HomeTeam": "Nott'm Forest",
-        "HST": 137,
-        "HS": 427,
+        "HomeTeam": "Chelsea",
+        "HST": 156,
+        "HS": 486,
         "Accuracy_%": 32.1
       },
       {
@@ -1329,16 +1329,16 @@
         "CardsPer100Fouls": 21.5
       },
       {
+        "HomeTeam": "Chelsea",
+        "HY": 79,
+        "HF": 380,
+        "CardsPer100Fouls": 20.8
+      },
+      {
         "HomeTeam": "Sunderland",
         "HY": 77,
         "HF": 371,
         "CardsPer100Fouls": 20.8
-      },
-      {
-        "HomeTeam": "Chelsea",
-        "HY": 76,
-        "HF": 368,
-        "CardsPer100Fouls": 20.7
       },
       {
         "HomeTeam": "Brighton",
@@ -1366,21 +1366,21 @@
       },
       {
         "HomeTeam": "Man City",
-        "HY": 59,
-        "HF": 329,
-        "CardsPer100Fouls": 17.9
+        "HY": 60,
+        "HF": 334,
+        "CardsPer100Fouls": 18.0
+      },
+      {
+        "HomeTeam": "Everton",
+        "HY": 65,
+        "HF": 366,
+        "CardsPer100Fouls": 17.8
       },
       {
         "HomeTeam": "Brentford",
         "HY": 63,
         "HF": 360,
         "CardsPer100Fouls": 17.5
-      },
-      {
-        "HomeTeam": "Everton",
-        "HY": 61,
-        "HF": 351,
-        "CardsPer100Fouls": 17.4
       },
       {
         "HomeTeam": "Burnley",
@@ -1425,15 +1425,15 @@
         "CardsPer100Fouls": 15.2
       },
       {
-        "HomeTeam": "Nott'm Forest",
-        "HY": 55,
-        "HF": 365,
-        "CardsPer100Fouls": 15.1
-      },
-      {
         "HomeTeam": "Liverpool",
         "HY": 52,
         "HF": 348,
+        "CardsPer100Fouls": 14.9
+      },
+      {
+        "HomeTeam": "Nott'm Forest",
+        "HY": 56,
+        "HF": 375,
         "CardsPer100Fouls": 14.9
       },
       {
@@ -1469,16 +1469,16 @@
         "AvgAwayCardBias": 1.3333333333333333
       },
       {
-        "Referee": "A Taylor",
+        "Referee": "C Kavanagh",
         "Matches": 27,
         "HomeWinRate": 48.148148148148145,
         "AvgAwayCardBias": 0.4074074074074074
       },
       {
-        "Referee": "C Kavanagh",
-        "Matches": 27,
-        "HomeWinRate": 48.148148148148145,
-        "AvgAwayCardBias": 0.4074074074074074
+        "Referee": "A Taylor",
+        "Matches": 28,
+        "HomeWinRate": 46.42857142857143,
+        "AvgAwayCardBias": 0.32142857142857145
       },
       {
         "Referee": "D England",
@@ -1508,33 +1508,33 @@
     "15_betting_roi": [
       {
         "Bookmaker": "Market Avg (Opening)",
-        "Fav_ROI": -6.94,
-        "Underdog_ROI": -16.09
+        "Fav_ROI": -7.48,
+        "Underdog_ROI": -15.24
       },
       {
         "Bookmaker": "Market Avg (Closing)",
-        "Fav_ROI": -6.46,
-        "Underdog_ROI": -16.02
+        "Fav_ROI": -7.0,
+        "Underdog_ROI": -14.46
       },
       {
         "Bookmaker": "Bet365 (Opening)",
-        "Fav_ROI": -8.27,
-        "Underdog_ROI": -12.38
+        "Fav_ROI": -8.79,
+        "Underdog_ROI": -11.52
       },
       {
         "Bookmaker": "Bet365 (Closing)",
-        "Fav_ROI": -6.72,
-        "Underdog_ROI": -17.23
+        "Fav_ROI": -7.25,
+        "Underdog_ROI": -15.7
       },
       {
         "Bookmaker": "Betfair (Opening)",
-        "Fav_ROI": -8.3,
-        "Underdog_ROI": -12.08
+        "Fav_ROI": -8.82,
+        "Underdog_ROI": -11.27
       },
       {
         "Bookmaker": "Betfair (Closing)",
-        "Fav_ROI": -7.15,
-        "Underdog_ROI": -15.64
+        "Fav_ROI": -7.7,
+        "Underdog_ROI": -13.93
       },
       {
         "Bookmaker": "Betfair Exchange (Opening)",
@@ -1548,33 +1548,33 @@
       },
       {
         "Bookmaker": "BetMGM (Opening)",
-        "Fav_ROI": -5.47,
-        "Underdog_ROI": -10.94
+        "Fav_ROI": -6.01,
+        "Underdog_ROI": -10.07
       },
       {
         "Bookmaker": "BetMGM (Closing)",
-        "Fav_ROI": -6.35,
-        "Underdog_ROI": -12.12
+        "Fav_ROI": -6.88,
+        "Underdog_ROI": -10.69
       },
       {
         "Bookmaker": "BetVictor (Opening)",
-        "Fav_ROI": -8.51,
-        "Underdog_ROI": -15.34
+        "Fav_ROI": -9.04,
+        "Underdog_ROI": -14.51
       },
       {
         "Bookmaker": "BetVictor (Closing)",
-        "Fav_ROI": -8.66,
-        "Underdog_ROI": -12.66
+        "Fav_ROI": -9.19,
+        "Underdog_ROI": -11.12
       },
       {
         "Bookmaker": "Bwin (Opening)",
-        "Fav_ROI": -6.75,
-        "Underdog_ROI": -12.63
+        "Fav_ROI": -7.29,
+        "Underdog_ROI": -11.82
       },
       {
         "Bookmaker": "Bwin (Closing)",
-        "Fav_ROI": -5.54,
-        "Underdog_ROI": -19.92
+        "Fav_ROI": -6.08,
+        "Underdog_ROI": -18.44
       },
       {
         "Bookmaker": "Cloudbet (Opening)",
@@ -1583,28 +1583,28 @@
       },
       {
         "Bookmaker": "Cloudbet (Closing)",
-        "Fav_ROI": -2.67,
-        "Underdog_ROI": -25.64
+        "Fav_ROI": -3.08,
+        "Underdog_ROI": -25.95
       },
       {
         "Bookmaker": "Ladbrokes (Opening)",
-        "Fav_ROI": -1.89,
-        "Underdog_ROI": -25.47
+        "Fav_ROI": -2.66,
+        "Underdog_ROI": -24.26
       },
       {
         "Bookmaker": "Ladbrokes (Closing)",
-        "Fav_ROI": -1.08,
-        "Underdog_ROI": -26.26
+        "Fav_ROI": -1.87,
+        "Underdog_ROI": -24.25
       },
       {
         "Bookmaker": "Market Max (Opening)",
-        "Fav_ROI": -6.15,
-        "Underdog_ROI": -11.37
+        "Fav_ROI": -6.68,
+        "Underdog_ROI": -10.48
       },
       {
         "Bookmaker": "Market Max (Closing)",
-        "Fav_ROI": -3.77,
-        "Underdog_ROI": -15.8
+        "Fav_ROI": -4.32,
+        "Underdog_ROI": -13.93
       },
       {
         "Bookmaker": "Pinnacle (Opening)",
@@ -1620,9 +1620,9 @@
     "16_defensive_wall": [
       {
         "HomeTeam": "Man City",
-        "SOT_Conc": 110,
-        "G_Conc": 29,
-        "SOT_per_Goal": 3.79
+        "SOT_Conc": 116,
+        "G_Conc": 32,
+        "SOT_per_Goal": 3.62
       },
       {
         "HomeTeam": "Aston Villa",
@@ -1637,12 +1637,6 @@
         "SOT_per_Goal": 3.5
       },
       {
-        "HomeTeam": "Everton",
-        "SOT_Conc": 141,
-        "G_Conc": 41,
-        "SOT_per_Goal": 3.44
-      },
-      {
         "HomeTeam": "Crystal Palace",
         "SOT_Conc": 142,
         "G_Conc": 42,
@@ -1655,22 +1649,28 @@
         "SOT_per_Goal": 3.31
       },
       {
+        "HomeTeam": "Everton",
+        "SOT_Conc": 145,
+        "G_Conc": 44,
+        "SOT_per_Goal": 3.3
+      },
+      {
         "HomeTeam": "Arsenal",
         "SOT_Conc": 84,
         "G_Conc": 26,
         "SOT_per_Goal": 3.23
       },
       {
-        "HomeTeam": "Chelsea",
+        "HomeTeam": "Nott'm Forest",
         "SOT_Conc": 144,
-        "G_Conc": 45,
-        "SOT_per_Goal": 3.2
+        "G_Conc": 46,
+        "SOT_per_Goal": 3.13
       },
       {
-        "HomeTeam": "Nott'm Forest",
-        "SOT_Conc": 139,
-        "G_Conc": 45,
-        "SOT_per_Goal": 3.09
+        "HomeTeam": "Chelsea",
+        "SOT_Conc": 148,
+        "G_Conc": 48,
+        "SOT_per_Goal": 3.08
       },
       {
         "HomeTeam": "Brentford",
@@ -1882,8 +1882,8 @@
       }
     ],
     "18_quick_stats": {
-      "home_win_pct": 42.9,
-      "avg_goals_per_game": 2.75,
+      "home_win_pct": 42.7,
+      "avg_goals_per_game": 2.76,
       "most_common_referee": "A Taylor"
     }
   }
