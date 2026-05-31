@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T23:45:09.626960",
+  "last_updated": "2026-05-31T23:50:53.860455",
   "analysis": {
     "0_league_table": [
       {
@@ -1519,7 +1519,7 @@
       {
         "Bookmaker": "Market Avg (Closing)",
         "Fav_ROI": -9.26,
-        "Underdog_ROI": -13.05
+        "Underdog_ROI": -11.99
       },
       {
         "Bookmaker": "Bet365 (Opening)",
@@ -1558,8 +1558,8 @@
       },
       {
         "Bookmaker": "BetMGM (Closing)",
-        "Fav_ROI": -8.22,
-        "Underdog_ROI": -11.04
+        "Fav_ROI": -9.24,
+        "Underdog_ROI": -8.88
       },
       {
         "Bookmaker": "BetVictor (Opening)",
@@ -1568,8 +1568,8 @@
       },
       {
         "Bookmaker": "BetVictor (Closing)",
-        "Fav_ROI": -10.38,
-        "Underdog_ROI": -10.25
+        "Fav_ROI": -10.63,
+        "Underdog_ROI": -7.62
       },
       {
         "Bookmaker": "Bwin (Opening)",
@@ -1578,8 +1578,8 @@
       },
       {
         "Bookmaker": "Bwin (Closing)",
-        "Fav_ROI": -7.34,
-        "Underdog_ROI": -18.21
+        "Fav_ROI": -7.68,
+        "Underdog_ROI": -15.77
       },
       {
         "Bookmaker": "Cloudbet (Opening)",
@@ -1588,8 +1588,8 @@
       },
       {
         "Bookmaker": "Cloudbet (Closing)",
-        "Fav_ROI": -4.15,
-        "Underdog_ROI": -26.72
+        "Fav_ROI": -4.76,
+        "Underdog_ROI": -22.92
       },
       {
         "Bookmaker": "Ladbrokes (Opening)",
@@ -1598,8 +1598,8 @@
       },
       {
         "Bookmaker": "Ladbrokes (Closing)",
-        "Fav_ROI": -3.95,
-        "Underdog_ROI": -23.49
+        "Fav_ROI": -4.53,
+        "Underdog_ROI": -20.1
       },
       {
         "Bookmaker": "Market Max (Opening)",
@@ -1608,8 +1608,8 @@
       },
       {
         "Bookmaker": "Market Max (Closing)",
-        "Fav_ROI": -6.65,
-        "Underdog_ROI": -10.05
+        "Fav_ROI": -5.97,
+        "Underdog_ROI": -10.01
       },
       {
         "Bookmaker": "Pinnacle (Opening)",
